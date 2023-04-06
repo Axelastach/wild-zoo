@@ -11,6 +11,7 @@ function Animal({name,species,age,image}) {
                     <h3>{name}</h3>
                     <span>Espèces: {species}</span>
                     <span>Âge : {age}</span>
+                    
 
                 </div>
 
