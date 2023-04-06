@@ -1,0 +1,19 @@
+.animal-img{
+    width: 20vw;
+    height: 50vh;
+    object-fit: cover;
+}
+
+.animal-description{
+    display: flex ;
+    flex-direction: column;
+    text-align: center;
+    color:var(--main-color);
+    background-color: var(--second-color);
+
+
+}
+.animal-description span {
+    font-size: 1.2em;
+    
+}
