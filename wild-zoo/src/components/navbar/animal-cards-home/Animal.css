@@ -1,6 +1,6 @@
 .animal-img{
     width: 20vw;
-    height: 50vh;
+    height: 60vh;
     object-fit: cover;
 }
 
@@ -15,5 +15,5 @@
 }
 .animal-description span {
     font-size: 1.2em;
-    
+
 }
